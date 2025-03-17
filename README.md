@@ -25,7 +25,6 @@ Here you can find my projects where I applied my skills and aimed to solve inter
 ## Contact
 If you have any questions or collaboration opportunities, feel free to reach out to me:
 
-* 📧 Email: maxim.pokrovsky18@yandex.ru
 * 🔗 LinkedIn: [maksim-pokrovskii](https://www.linkedin.com/in/maksim-pokrovskii-b003a6294/)
 * 💬 Telegram: [@pokrovsky](https://t.me/pokrovsky)
 
