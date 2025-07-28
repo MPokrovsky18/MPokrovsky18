@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Max
 
 ## About Me
-I'm a beginner Python developer with a huge enthusiasm and passion for creating software. I'm inspired by the opportunity to use technology to solve real-world problems and improve people's lives.
+I'm a Python developer with a huge enthusiasm and passion for creating software. I'm inspired by the opportunity to use technology to solve real-world problems and improve people's lives.
 
 ## My Skills
 * 🐍 Python: Proficient in the Python programming language, capable of developing scalable and efficient applications.
